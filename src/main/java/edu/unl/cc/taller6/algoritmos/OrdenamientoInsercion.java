@@ -4,7 +4,6 @@ import java.util.List;
 
 /**
  * Algoritmo de ordenamiento por Inserción
- * Complejidad: O(n²) peor caso, O(n) mejor caso (casi ordenado)
  * Estable: SÍ
  */
 public class OrdenamientoInsercion {

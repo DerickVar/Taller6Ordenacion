@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * Generador de inventario_500_inverso.csv
  * 500 items con id;insumo;stock
- * Stock en orden descendente estricto: 500, 499, 498, ..., 1
  */
 public class GeneradorInventario500 {
     

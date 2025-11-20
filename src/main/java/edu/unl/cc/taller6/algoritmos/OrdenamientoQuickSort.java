@@ -4,7 +4,6 @@ import java.util.List;
 
 /**
  * Algoritmo de ordenamiento QuickSort
- * Complejidad: O(n log n) promedio, O(n²) peor caso
  * Estable: NO
  */
 public class OrdenamientoQuickSort {

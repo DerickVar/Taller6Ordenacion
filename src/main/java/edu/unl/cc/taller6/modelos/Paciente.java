@@ -20,7 +20,7 @@ public class Paciente implements Comparable<Paciente> {
     
     @Override
     public int compareTo(Paciente otro) {
-        // Comparar por apellido
+        // Comparamos por el apellido
         return this.apellido.compareTo(otro.apellido);
     }
     

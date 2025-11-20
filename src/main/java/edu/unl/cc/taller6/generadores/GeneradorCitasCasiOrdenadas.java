@@ -12,8 +12,8 @@ import java.util.Random;
 
 /**
  * Generador de citas_100_casi_ordenadas.csv
- * Parte del archivo ordenado por fechaHora y realiza exactamente 5 swaps (5%)
- * Semilla: 42
+ * Parte del archivo ordenado por fechaHora y realiza exactamente 5 swaps 
+ * En la semilla: 42
  */
 public class GeneradorCitasCasiOrdenadas {
     
@@ -36,11 +36,11 @@ public class GeneradorCitasCasiOrdenadas {
             return;
         }
         
-        // Separar encabezado
+        // Separamos el encabezado
         String encabezado = lineas.get(0);
         List<String> datos = lineas.subList(1, lineas.size());
         
-        // Ordenar por fechaHora (campo 3)
+        // ordenamos por fechaHora
         datos.sort(Comparator.comparing(linea -> {
             String[] partes = linea.split(";");
             return partes.length >= 3 ? partes[2] : "";
@@ -54,12 +54,12 @@ public class GeneradorCitasCasiOrdenadas {
             int pos1 = random.nextInt(datos.size());
             int pos2 = random.nextInt(datos.size());
             
-            // Asegurar que no sean la misma posición
+            // Aseguramos que no sean la misma posición
             while (pos1 == pos2) {
                 pos2 = random.nextInt(datos.size());
             }
             
-            // Intercambiar
+            // Intercambiamos
             String temp = datos.get(pos1);
             datos.set(pos1, datos.get(pos2));
             datos.set(pos2, temp);

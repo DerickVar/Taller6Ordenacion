@@ -10,12 +10,12 @@ import java.util.Random;
 /**
  * Generador de pacientes_500.csv
  * 500 pacientes con id;apellido;prioridad
- * Muchos apellidos duplicados, prioridad 1-3
+ * tenemos muchos apellidos duplicados, prioridad 1-3
  * Semilla: 42
  */
 public class GeneradorPacientes500 {
     
-    // Pool de ~50 apellidos con distribución sesgada (60/30/10)
+    
     private static final String[] APELLIDOS_FRECUENTES = {
         "Ramírez", "García", "Rodríguez", "López", "González",
         "Martínez", "Pérez", "Sánchez", "Torres", "Flores",
@@ -42,7 +42,7 @@ public class GeneradorPacientes500 {
         // Encabezado
         lineas.add("id;apellido;prioridad");
         
-        // Generar 500 pacientes
+        // Generador 500 pacientes
         for (int i = 1; i <= 500; i++) {
             String id = String.format("PAC-%04d", i);
             String apellido = seleccionarApellidoSesgado(random);

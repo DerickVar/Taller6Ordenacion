@@ -4,7 +4,6 @@ import java.util.List;
 
 /**
  * Algoritmo de ordenamiento MergeSort
- * Complejidad: O(n log n) en todos los casos
  * Estable: SÍ
  */
 public class OrdenamientoMergeSort {

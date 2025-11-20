@@ -12,7 +12,7 @@ import java.util.Random;
 /**
  * Generador de citas_100.csv
  * 100 citas médicas con id;apellido;fechaHora
- * Semilla: 42
+ * En la semilla: 42
  */
 public class GeneradorCitas100 {
     
@@ -28,13 +28,13 @@ public class GeneradorCitas100 {
     private static final DateTimeFormatter FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm");
     
     public static void generar(String nombreArchivo) {
-        Random random = new Random(42); // Semilla 42
+        Random random = new Random(42); // Esta e la semilla 42
         List<String> lineas = new ArrayList<>();
         
-        // Encabezado
+        // El encabezado osea el inicio del archivo
         lineas.add("id;apellido;fechaHora");
         
-        // Generar 100 citas
+        // Generador de 100 citas
         for (int i = 1; i <= 100; i++) {
             String id = String.format("CITA-%03d", i);
             String apellido = APELLIDOS[random.nextInt(APELLIDOS.length)];
@@ -54,7 +54,7 @@ public class GeneradorCitas100 {
     }
     
     private static LocalDateTime generarFechaHoraAleatoria(Random random) {
-        // Entre 2025-03-01 08:00 y 2025-03-31 18:00
+
         int dia = 1 + random.nextInt(31); // 1-31
         int hora = 8 + random.nextInt(11); // 8-18
         int minuto = random.nextInt(60); // 0-59
