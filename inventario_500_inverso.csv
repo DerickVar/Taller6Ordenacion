@@ -1,0 +1,501 @@
+id;insumo;stock
+ITEM-0001;Guante Nitrilo Talla M;500
+ITEM-0002;Guante Nitrilo Talla S;499
+ITEM-0003;Guante Nitrilo Talla L;498
+ITEM-0004;Alcohol 70% 1L;497
+ITEM-0005;Alcohol 70% 500ml;496
+ITEM-0006;Alcohol Gel 1L;495
+ITEM-0007;Gasas 10x10;494
+ITEM-0008;Gasas 5x5;493
+ITEM-0009;Vendas Elásticas 10cm;492
+ITEM-0010;Jeringa 5ml;491
+ITEM-0011;Jeringa 10ml;490
+ITEM-0012;Jeringa 20ml;489
+ITEM-0013;Aguja 21G;488
+ITEM-0014;Aguja 23G;487
+ITEM-0015;Aguja 25G;486
+ITEM-0016;Mascarilla N95;485
+ITEM-0017;Mascarilla Quirúrgica;484
+ITEM-0018;Mascarilla KN95;483
+ITEM-0019;Termómetro Digital;482
+ITEM-0020;Estetoscopio;481
+ITEM-0021;Tensiómetro;480
+ITEM-0022;Suero Fisiológico 500ml;479
+ITEM-0023;Suero Fisiológico 1000ml;478
+ITEM-0024;Suero Glucosado 5%;477
+ITEM-0025;Catéter IV 18G;476
+ITEM-0026;Catéter IV 20G;475
+ITEM-0027;Catéter IV 22G;474
+ITEM-0028;Apósito Adhesivo 10x10;473
+ITEM-0029;Apósito Hidrocoloide;472
+ITEM-0030;Cinta Micropore;471
+ITEM-0031;Bata Quirúrgica;470
+ITEM-0032;Gorro Quirúrgico;469
+ITEM-0033;Cubre Zapatos;468
+ITEM-0034;Algodón 500g;467
+ITEM-0035;Hisopos Estériles;466
+ITEM-0036;Lancetas;465
+ITEM-0037;Guantes Látex M;464
+ITEM-0038;Guantes Látex S;463
+ITEM-0039;Guantes Látex L;462
+ITEM-0040;Bisturí Desechable;461
+ITEM-0041;Pinza Kelly;460
+ITEM-0042;Pinza Kocher;459
+ITEM-0043;Sonda Foley 16F;458
+ITEM-0044;Sonda Foley 18F;457
+ITEM-0045;Sonda Nasogástrica;456
+ITEM-0046;Oxímetro de Pulso;455
+ITEM-0047;Nebulizador;454
+ITEM-0048;Glucómetro;453
+ITEM-0049;Guante Nitrilo Talla M;452
+ITEM-0050;Guante Nitrilo Talla S;451
+ITEM-0051;Guante Nitrilo Talla L;450
+ITEM-0052;Alcohol 70% 1L;449
+ITEM-0053;Alcohol 70% 500ml;448
+ITEM-0054;Alcohol Gel 1L;447
+ITEM-0055;Gasas 10x10;446
+ITEM-0056;Gasas 5x5;445
+ITEM-0057;Vendas Elásticas 10cm;444
+ITEM-0058;Jeringa 5ml;443
+ITEM-0059;Jeringa 10ml;442
+ITEM-0060;Jeringa 20ml;441
+ITEM-0061;Aguja 21G;440
+ITEM-0062;Aguja 23G;439
+ITEM-0063;Aguja 25G;438
+ITEM-0064;Mascarilla N95;437
+ITEM-0065;Mascarilla Quirúrgica;436
+ITEM-0066;Mascarilla KN95;435
+ITEM-0067;Termómetro Digital;434
+ITEM-0068;Estetoscopio;433
+ITEM-0069;Tensiómetro;432
+ITEM-0070;Suero Fisiológico 500ml;431
+ITEM-0071;Suero Fisiológico 1000ml;430
+ITEM-0072;Suero Glucosado 5%;429
+ITEM-0073;Catéter IV 18G;428
+ITEM-0074;Catéter IV 20G;427
+ITEM-0075;Catéter IV 22G;426
+ITEM-0076;Apósito Adhesivo 10x10;425
+ITEM-0077;Apósito Hidrocoloide;424
+ITEM-0078;Cinta Micropore;423
+ITEM-0079;Bata Quirúrgica;422
+ITEM-0080;Gorro Quirúrgico;421
+ITEM-0081;Cubre Zapatos;420
+ITEM-0082;Algodón 500g;419
+ITEM-0083;Hisopos Estériles;418
+ITEM-0084;Lancetas;417
+ITEM-0085;Guantes Látex M;416
+ITEM-0086;Guantes Látex S;415
+ITEM-0087;Guantes Látex L;414
+ITEM-0088;Bisturí Desechable;413
+ITEM-0089;Pinza Kelly;412
+ITEM-0090;Pinza Kocher;411
+ITEM-0091;Sonda Foley 16F;410
+ITEM-0092;Sonda Foley 18F;409
+ITEM-0093;Sonda Nasogástrica;408
+ITEM-0094;Oxímetro de Pulso;407
+ITEM-0095;Nebulizador;406
+ITEM-0096;Glucómetro;405
+ITEM-0097;Guante Nitrilo Talla M;404
+ITEM-0098;Guante Nitrilo Talla S;403
+ITEM-0099;Guante Nitrilo Talla L;402
+ITEM-0100;Alcohol 70% 1L;401
+ITEM-0101;Alcohol 70% 500ml;400
+ITEM-0102;Alcohol Gel 1L;399
+ITEM-0103;Gasas 10x10;398
+ITEM-0104;Gasas 5x5;397
+ITEM-0105;Vendas Elásticas 10cm;396
+ITEM-0106;Jeringa 5ml;395
+ITEM-0107;Jeringa 10ml;394
+ITEM-0108;Jeringa 20ml;393
+ITEM-0109;Aguja 21G;392
+ITEM-0110;Aguja 23G;391
+ITEM-0111;Aguja 25G;390
+ITEM-0112;Mascarilla N95;389
+ITEM-0113;Mascarilla Quirúrgica;388
+ITEM-0114;Mascarilla KN95;387
+ITEM-0115;Termómetro Digital;386
+ITEM-0116;Estetoscopio;385
+ITEM-0117;Tensiómetro;384
+ITEM-0118;Suero Fisiológico 500ml;383
+ITEM-0119;Suero Fisiológico 1000ml;382
+ITEM-0120;Suero Glucosado 5%;381
+ITEM-0121;Catéter IV 18G;380
+ITEM-0122;Catéter IV 20G;379
+ITEM-0123;Catéter IV 22G;378
+ITEM-0124;Apósito Adhesivo 10x10;377
+ITEM-0125;Apósito Hidrocoloide;376
+ITEM-0126;Cinta Micropore;375
+ITEM-0127;Bata Quirúrgica;374
+ITEM-0128;Gorro Quirúrgico;373
+ITEM-0129;Cubre Zapatos;372
+ITEM-0130;Algodón 500g;371
+ITEM-0131;Hisopos Estériles;370
+ITEM-0132;Lancetas;369
+ITEM-0133;Guantes Látex M;368
+ITEM-0134;Guantes Látex S;367
+ITEM-0135;Guantes Látex L;366
+ITEM-0136;Bisturí Desechable;365
+ITEM-0137;Pinza Kelly;364
+ITEM-0138;Pinza Kocher;363
+ITEM-0139;Sonda Foley 16F;362
+ITEM-0140;Sonda Foley 18F;361
+ITEM-0141;Sonda Nasogástrica;360
+ITEM-0142;Oxímetro de Pulso;359
+ITEM-0143;Nebulizador;358
+ITEM-0144;Glucómetro;357
+ITEM-0145;Guante Nitrilo Talla M;356
+ITEM-0146;Guante Nitrilo Talla S;355
+ITEM-0147;Guante Nitrilo Talla L;354
+ITEM-0148;Alcohol 70% 1L;353
+ITEM-0149;Alcohol 70% 500ml;352
+ITEM-0150;Alcohol Gel 1L;351
+ITEM-0151;Gasas 10x10;350
+ITEM-0152;Gasas 5x5;349
+ITEM-0153;Vendas Elásticas 10cm;348
+ITEM-0154;Jeringa 5ml;347
+ITEM-0155;Jeringa 10ml;346
+ITEM-0156;Jeringa 20ml;345
+ITEM-0157;Aguja 21G;344
+ITEM-0158;Aguja 23G;343
+ITEM-0159;Aguja 25G;342
+ITEM-0160;Mascarilla N95;341
+ITEM-0161;Mascarilla Quirúrgica;340
+ITEM-0162;Mascarilla KN95;339
+ITEM-0163;Termómetro Digital;338
+ITEM-0164;Estetoscopio;337
+ITEM-0165;Tensiómetro;336
+ITEM-0166;Suero Fisiológico 500ml;335
+ITEM-0167;Suero Fisiológico 1000ml;334
+ITEM-0168;Suero Glucosado 5%;333
+ITEM-0169;Catéter IV 18G;332
+ITEM-0170;Catéter IV 20G;331
+ITEM-0171;Catéter IV 22G;330
+ITEM-0172;Apósito Adhesivo 10x10;329
+ITEM-0173;Apósito Hidrocoloide;328
+ITEM-0174;Cinta Micropore;327
+ITEM-0175;Bata Quirúrgica;326
+ITEM-0176;Gorro Quirúrgico;325
+ITEM-0177;Cubre Zapatos;324
+ITEM-0178;Algodón 500g;323
+ITEM-0179;Hisopos Estériles;322
+ITEM-0180;Lancetas;321
+ITEM-0181;Guantes Látex M;320
+ITEM-0182;Guantes Látex S;319
+ITEM-0183;Guantes Látex L;318
+ITEM-0184;Bisturí Desechable;317
+ITEM-0185;Pinza Kelly;316
+ITEM-0186;Pinza Kocher;315
+ITEM-0187;Sonda Foley 16F;314
+ITEM-0188;Sonda Foley 18F;313
+ITEM-0189;Sonda Nasogástrica;312
+ITEM-0190;Oxímetro de Pulso;311
+ITEM-0191;Nebulizador;310
+ITEM-0192;Glucómetro;309
+ITEM-0193;Guante Nitrilo Talla M;308
+ITEM-0194;Guante Nitrilo Talla S;307
+ITEM-0195;Guante Nitrilo Talla L;306
+ITEM-0196;Alcohol 70% 1L;305
+ITEM-0197;Alcohol 70% 500ml;304
+ITEM-0198;Alcohol Gel 1L;303
+ITEM-0199;Gasas 10x10;302
+ITEM-0200;Gasas 5x5;301
+ITEM-0201;Vendas Elásticas 10cm;300
+ITEM-0202;Jeringa 5ml;299
+ITEM-0203;Jeringa 10ml;298
+ITEM-0204;Jeringa 20ml;297
+ITEM-0205;Aguja 21G;296
+ITEM-0206;Aguja 23G;295
+ITEM-0207;Aguja 25G;294
+ITEM-0208;Mascarilla N95;293
+ITEM-0209;Mascarilla Quirúrgica;292
+ITEM-0210;Mascarilla KN95;291
+ITEM-0211;Termómetro Digital;290
+ITEM-0212;Estetoscopio;289
+ITEM-0213;Tensiómetro;288
+ITEM-0214;Suero Fisiológico 500ml;287
+ITEM-0215;Suero Fisiológico 1000ml;286
+ITEM-0216;Suero Glucosado 5%;285
+ITEM-0217;Catéter IV 18G;284
+ITEM-0218;Catéter IV 20G;283
+ITEM-0219;Catéter IV 22G;282
+ITEM-0220;Apósito Adhesivo 10x10;281
+ITEM-0221;Apósito Hidrocoloide;280
+ITEM-0222;Cinta Micropore;279
+ITEM-0223;Bata Quirúrgica;278
+ITEM-0224;Gorro Quirúrgico;277
+ITEM-0225;Cubre Zapatos;276
+ITEM-0226;Algodón 500g;275
+ITEM-0227;Hisopos Estériles;274
+ITEM-0228;Lancetas;273
+ITEM-0229;Guantes Látex M;272
+ITEM-0230;Guantes Látex S;271
+ITEM-0231;Guantes Látex L;270
+ITEM-0232;Bisturí Desechable;269
+ITEM-0233;Pinza Kelly;268
+ITEM-0234;Pinza Kocher;267
+ITEM-0235;Sonda Foley 16F;266
+ITEM-0236;Sonda Foley 18F;265
+ITEM-0237;Sonda Nasogástrica;264
+ITEM-0238;Oxímetro de Pulso;263
+ITEM-0239;Nebulizador;262
+ITEM-0240;Glucómetro;261
+ITEM-0241;Guante Nitrilo Talla M;260
+ITEM-0242;Guante Nitrilo Talla S;259
+ITEM-0243;Guante Nitrilo Talla L;258
+ITEM-0244;Alcohol 70% 1L;257
+ITEM-0245;Alcohol 70% 500ml;256
+ITEM-0246;Alcohol Gel 1L;255
+ITEM-0247;Gasas 10x10;254
+ITEM-0248;Gasas 5x5;253
+ITEM-0249;Vendas Elásticas 10cm;252
+ITEM-0250;Jeringa 5ml;251
+ITEM-0251;Jeringa 10ml;250
+ITEM-0252;Jeringa 20ml;249
+ITEM-0253;Aguja 21G;248
+ITEM-0254;Aguja 23G;247
+ITEM-0255;Aguja 25G;246
+ITEM-0256;Mascarilla N95;245
+ITEM-0257;Mascarilla Quirúrgica;244
+ITEM-0258;Mascarilla KN95;243
+ITEM-0259;Termómetro Digital;242
+ITEM-0260;Estetoscopio;241
+ITEM-0261;Tensiómetro;240
+ITEM-0262;Suero Fisiológico 500ml;239
+ITEM-0263;Suero Fisiológico 1000ml;238
+ITEM-0264;Suero Glucosado 5%;237
+ITEM-0265;Catéter IV 18G;236
+ITEM-0266;Catéter IV 20G;235
+ITEM-0267;Catéter IV 22G;234
+ITEM-0268;Apósito Adhesivo 10x10;233
+ITEM-0269;Apósito Hidrocoloide;232
+ITEM-0270;Cinta Micropore;231
+ITEM-0271;Bata Quirúrgica;230
+ITEM-0272;Gorro Quirúrgico;229
+ITEM-0273;Cubre Zapatos;228
+ITEM-0274;Algodón 500g;227
+ITEM-0275;Hisopos Estériles;226
+ITEM-0276;Lancetas;225
+ITEM-0277;Guantes Látex M;224
+ITEM-0278;Guantes Látex S;223
+ITEM-0279;Guantes Látex L;222
+ITEM-0280;Bisturí Desechable;221
+ITEM-0281;Pinza Kelly;220
+ITEM-0282;Pinza Kocher;219
+ITEM-0283;Sonda Foley 16F;218
+ITEM-0284;Sonda Foley 18F;217
+ITEM-0285;Sonda Nasogástrica;216
+ITEM-0286;Oxímetro de Pulso;215
+ITEM-0287;Nebulizador;214
+ITEM-0288;Glucómetro;213
+ITEM-0289;Guante Nitrilo Talla M;212
+ITEM-0290;Guante Nitrilo Talla S;211
+ITEM-0291;Guante Nitrilo Talla L;210
+ITEM-0292;Alcohol 70% 1L;209
+ITEM-0293;Alcohol 70% 500ml;208
+ITEM-0294;Alcohol Gel 1L;207
+ITEM-0295;Gasas 10x10;206
+ITEM-0296;Gasas 5x5;205
+ITEM-0297;Vendas Elásticas 10cm;204
+ITEM-0298;Jeringa 5ml;203
+ITEM-0299;Jeringa 10ml;202
+ITEM-0300;Jeringa 20ml;201
+ITEM-0301;Aguja 21G;200
+ITEM-0302;Aguja 23G;199
+ITEM-0303;Aguja 25G;198
+ITEM-0304;Mascarilla N95;197
+ITEM-0305;Mascarilla Quirúrgica;196
+ITEM-0306;Mascarilla KN95;195
+ITEM-0307;Termómetro Digital;194
+ITEM-0308;Estetoscopio;193
+ITEM-0309;Tensiómetro;192
+ITEM-0310;Suero Fisiológico 500ml;191
+ITEM-0311;Suero Fisiológico 1000ml;190
+ITEM-0312;Suero Glucosado 5%;189
+ITEM-0313;Catéter IV 18G;188
+ITEM-0314;Catéter IV 20G;187
+ITEM-0315;Catéter IV 22G;186
+ITEM-0316;Apósito Adhesivo 10x10;185
+ITEM-0317;Apósito Hidrocoloide;184
+ITEM-0318;Cinta Micropore;183
+ITEM-0319;Bata Quirúrgica;182
+ITEM-0320;Gorro Quirúrgico;181
+ITEM-0321;Cubre Zapatos;180
+ITEM-0322;Algodón 500g;179
+ITEM-0323;Hisopos Estériles;178
+ITEM-0324;Lancetas;177
+ITEM-0325;Guantes Látex M;176
+ITEM-0326;Guantes Látex S;175
+ITEM-0327;Guantes Látex L;174
+ITEM-0328;Bisturí Desechable;173
+ITEM-0329;Pinza Kelly;172
+ITEM-0330;Pinza Kocher;171
+ITEM-0331;Sonda Foley 16F;170
+ITEM-0332;Sonda Foley 18F;169
+ITEM-0333;Sonda Nasogástrica;168
+ITEM-0334;Oxímetro de Pulso;167
+ITEM-0335;Nebulizador;166
+ITEM-0336;Glucómetro;165
+ITEM-0337;Guante Nitrilo Talla M;164
+ITEM-0338;Guante Nitrilo Talla S;163
+ITEM-0339;Guante Nitrilo Talla L;162
+ITEM-0340;Alcohol 70% 1L;161
+ITEM-0341;Alcohol 70% 500ml;160
+ITEM-0342;Alcohol Gel 1L;159
+ITEM-0343;Gasas 10x10;158
+ITEM-0344;Gasas 5x5;157
+ITEM-0345;Vendas Elásticas 10cm;156
+ITEM-0346;Jeringa 5ml;155
+ITEM-0347;Jeringa 10ml;154
+ITEM-0348;Jeringa 20ml;153
+ITEM-0349;Aguja 21G;152
+ITEM-0350;Aguja 23G;151
+ITEM-0351;Aguja 25G;150
+ITEM-0352;Mascarilla N95;149
+ITEM-0353;Mascarilla Quirúrgica;148
+ITEM-0354;Mascarilla KN95;147
+ITEM-0355;Termómetro Digital;146
+ITEM-0356;Estetoscopio;145
+ITEM-0357;Tensiómetro;144
+ITEM-0358;Suero Fisiológico 500ml;143
+ITEM-0359;Suero Fisiológico 1000ml;142
+ITEM-0360;Suero Glucosado 5%;141
+ITEM-0361;Catéter IV 18G;140
+ITEM-0362;Catéter IV 20G;139
+ITEM-0363;Catéter IV 22G;138
+ITEM-0364;Apósito Adhesivo 10x10;137
+ITEM-0365;Apósito Hidrocoloide;136
+ITEM-0366;Cinta Micropore;135
+ITEM-0367;Bata Quirúrgica;134
+ITEM-0368;Gorro Quirúrgico;133
+ITEM-0369;Cubre Zapatos;132
+ITEM-0370;Algodón 500g;131
+ITEM-0371;Hisopos Estériles;130
+ITEM-0372;Lancetas;129
+ITEM-0373;Guantes Látex M;128
+ITEM-0374;Guantes Látex S;127
+ITEM-0375;Guantes Látex L;126
+ITEM-0376;Bisturí Desechable;125
+ITEM-0377;Pinza Kelly;124
+ITEM-0378;Pinza Kocher;123
+ITEM-0379;Sonda Foley 16F;122
+ITEM-0380;Sonda Foley 18F;121
+ITEM-0381;Sonda Nasogástrica;120
+ITEM-0382;Oxímetro de Pulso;119
+ITEM-0383;Nebulizador;118
+ITEM-0384;Glucómetro;117
+ITEM-0385;Guante Nitrilo Talla M;116
+ITEM-0386;Guante Nitrilo Talla S;115
+ITEM-0387;Guante Nitrilo Talla L;114
+ITEM-0388;Alcohol 70% 1L;113
+ITEM-0389;Alcohol 70% 500ml;112
+ITEM-0390;Alcohol Gel 1L;111
+ITEM-0391;Gasas 10x10;110
+ITEM-0392;Gasas 5x5;109
+ITEM-0393;Vendas Elásticas 10cm;108
+ITEM-0394;Jeringa 5ml;107
+ITEM-0395;Jeringa 10ml;106
+ITEM-0396;Jeringa 20ml;105
+ITEM-0397;Aguja 21G;104
+ITEM-0398;Aguja 23G;103
+ITEM-0399;Aguja 25G;102
+ITEM-0400;Mascarilla N95;101
+ITEM-0401;Mascarilla Quirúrgica;100
+ITEM-0402;Mascarilla KN95;99
+ITEM-0403;Termómetro Digital;98
+ITEM-0404;Estetoscopio;97
+ITEM-0405;Tensiómetro;96
+ITEM-0406;Suero Fisiológico 500ml;95
+ITEM-0407;Suero Fisiológico 1000ml;94
+ITEM-0408;Suero Glucosado 5%;93
+ITEM-0409;Catéter IV 18G;92
+ITEM-0410;Catéter IV 20G;91
+ITEM-0411;Catéter IV 22G;90
+ITEM-0412;Apósito Adhesivo 10x10;89
+ITEM-0413;Apósito Hidrocoloide;88
+ITEM-0414;Cinta Micropore;87
+ITEM-0415;Bata Quirúrgica;86
+ITEM-0416;Gorro Quirúrgico;85
+ITEM-0417;Cubre Zapatos;84
+ITEM-0418;Algodón 500g;83
+ITEM-0419;Hisopos Estériles;82
+ITEM-0420;Lancetas;81
+ITEM-0421;Guantes Látex M;80
+ITEM-0422;Guantes Látex S;79
+ITEM-0423;Guantes Látex L;78
+ITEM-0424;Bisturí Desechable;77
+ITEM-0425;Pinza Kelly;76
+ITEM-0426;Pinza Kocher;75
+ITEM-0427;Sonda Foley 16F;74
+ITEM-0428;Sonda Foley 18F;73
+ITEM-0429;Sonda Nasogástrica;72
+ITEM-0430;Oxímetro de Pulso;71
+ITEM-0431;Nebulizador;70
+ITEM-0432;Glucómetro;69
+ITEM-0433;Guante Nitrilo Talla M;68
+ITEM-0434;Guante Nitrilo Talla S;67
+ITEM-0435;Guante Nitrilo Talla L;66
+ITEM-0436;Alcohol 70% 1L;65
+ITEM-0437;Alcohol 70% 500ml;64
+ITEM-0438;Alcohol Gel 1L;63
+ITEM-0439;Gasas 10x10;62
+ITEM-0440;Gasas 5x5;61
+ITEM-0441;Vendas Elásticas 10cm;60
+ITEM-0442;Jeringa 5ml;59
+ITEM-0443;Jeringa 10ml;58
+ITEM-0444;Jeringa 20ml;57
+ITEM-0445;Aguja 21G;56
+ITEM-0446;Aguja 23G;55
+ITEM-0447;Aguja 25G;54
+ITEM-0448;Mascarilla N95;53
+ITEM-0449;Mascarilla Quirúrgica;52
+ITEM-0450;Mascarilla KN95;51
+ITEM-0451;Termómetro Digital;50
+ITEM-0452;Estetoscopio;49
+ITEM-0453;Tensiómetro;48
+ITEM-0454;Suero Fisiológico 500ml;47
+ITEM-0455;Suero Fisiológico 1000ml;46
+ITEM-0456;Suero Glucosado 5%;45
+ITEM-0457;Catéter IV 18G;44
+ITEM-0458;Catéter IV 20G;43
+ITEM-0459;Catéter IV 22G;42
+ITEM-0460;Apósito Adhesivo 10x10;41
+ITEM-0461;Apósito Hidrocoloide;40
+ITEM-0462;Cinta Micropore;39
+ITEM-0463;Bata Quirúrgica;38
+ITEM-0464;Gorro Quirúrgico;37
+ITEM-0465;Cubre Zapatos;36
+ITEM-0466;Algodón 500g;35
+ITEM-0467;Hisopos Estériles;34
+ITEM-0468;Lancetas;33
+ITEM-0469;Guantes Látex M;32
+ITEM-0470;Guantes Látex S;31
+ITEM-0471;Guantes Látex L;30
+ITEM-0472;Bisturí Desechable;29
+ITEM-0473;Pinza Kelly;28
+ITEM-0474;Pinza Kocher;27
+ITEM-0475;Sonda Foley 16F;26
+ITEM-0476;Sonda Foley 18F;25
+ITEM-0477;Sonda Nasogástrica;24
+ITEM-0478;Oxímetro de Pulso;23
+ITEM-0479;Nebulizador;22
+ITEM-0480;Glucómetro;21
+ITEM-0481;Guante Nitrilo Talla M;20
+ITEM-0482;Guante Nitrilo Talla S;19
+ITEM-0483;Guante Nitrilo Talla L;18
+ITEM-0484;Alcohol 70% 1L;17
+ITEM-0485;Alcohol 70% 500ml;16
+ITEM-0486;Alcohol Gel 1L;15
+ITEM-0487;Gasas 10x10;14
+ITEM-0488;Gasas 5x5;13
+ITEM-0489;Vendas Elásticas 10cm;12
+ITEM-0490;Jeringa 5ml;11
+ITEM-0491;Jeringa 10ml;10
+ITEM-0492;Jeringa 20ml;9
+ITEM-0493;Aguja 21G;8
+ITEM-0494;Aguja 23G;7
+ITEM-0495;Aguja 25G;6
+ITEM-0496;Mascarilla N95;5
+ITEM-0497;Mascarilla Quirúrgica;4
+ITEM-0498;Mascarilla KN95;3
+ITEM-0499;Termómetro Digital;2
+ITEM-0500;Estetoscopio;1
